@@ -1,0 +1,5 @@
+%{
+  "egd": {:hex, :egd24, "0.10.1", "4a6b89b1f7cebad2437b88c3ee0db952383cdade01b944930f4bbeeeb7547ff7", [:rebar3], [], "hexpm", "30775933c6f6f7e9deb7ef8d895e65b6ef4b06a144dbe10adafdb3953af52050"},
+  "egd24": {:hex, :egd24, "0.10.1", "4a6b89b1f7cebad2437b88c3ee0db952383cdade01b944930f4bbeeeb7547ff7", [:rebar3], [], "hexpm", "30775933c6f6f7e9deb7ef8d895e65b6ef4b06a144dbe10adafdb3953af52050"},
+  "mogrify": {:hex, :mogrify, "0.9.3", "238c782f00271dace01369ad35ae2e9dd020feee3443b9299ea5ea6bed559841", [:mix], [], "hexpm", "0189b1e1de27455f2b9ae8cf88239cefd23d38de9276eb5add7159aea51731e6"},
+}

@@ -21,7 +21,7 @@ defmodule Identicon.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:egd, "~> 0.10.1", hex: :egd24}
+      {:egd, "~> 0.10.1", hex: :egd24}, {:ex_doc, "~> 0.30"}
     ]
   end
 end
